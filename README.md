@@ -12,4 +12,4 @@ assuntos relacionados à disciplina.
 
 ## Posts
 
-[1. Computação Visual?](01_cv.md) (27/08/2026)
+[1. post01.md (27/08/2026)
