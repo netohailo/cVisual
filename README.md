@@ -8,8 +8,7 @@ Hailo Neto - 10416839
 Este é o meu blog para a disciplina de Computação Visual.
 
 Durante o semestre, vou utilizar este espaço para compartilhar
-assuntos relacionados à disciplina que despertarem minha curiosidade,
-como artigos, algoritmos, vídeos, tecnologias e aplicações.
+assuntos relacionados à disciplina.
 
 ## Posts
 
