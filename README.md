@@ -13,3 +13,5 @@ assuntos relacionados à disciplina.
 ## Posts
 
 [1. Computação Visual Post1](post01.md) (27/08/2026)
+
+[1. Computação Visual Jogos Pixel Art](post02.md) (27/08/2026)
