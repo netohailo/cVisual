@@ -18,4 +18,6 @@ assuntos relacionados à disciplina.
 
 [3. Computação Visual Post 05](post05.md) (01/10/2026)
 
-[3. Computação Visual Post 06](post06.md) (15/10/2026)
+[4. Computação Visual Post 06](post06.md) (15/10/2026)
+
+[5. Computação Visual Post 07](post07.md) (29/10/2026)
